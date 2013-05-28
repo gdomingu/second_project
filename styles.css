@@ -1,0 +1,30 @@
+h1 {
+	color:red;
+	font-size: 250 px;
+	text-align: center;
+}
+
+p {
+	color: blue;
+	font-weight: bold;
+	text-align: center;
+	font-size: 75 px;
+}
+
+#content {
+	border: 2px dotted;
+	width: 250px;
+	display: block;
+	margin: auto;
+
+}
+img {
+	display: block;
+	width: auto;
+	margin: auto;
+}
+
+footer {
+	text-align: center;
+	font-size: 45 px;
+}
